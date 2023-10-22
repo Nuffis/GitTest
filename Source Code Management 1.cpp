@@ -1,10 +1,11 @@
-// Source Code Management 1.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+//Landon Dunkerly
+//10/20/23
+// CIS 1202 501
 
 #include <iostream>
 using namespace std;
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    std::cout << "Hello Universe!\n";
 }
